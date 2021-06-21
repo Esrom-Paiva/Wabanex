@@ -5,6 +5,8 @@
 /.fetch
 erl_crash.dump
 *.ez
+wabanex-*.tar
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+.vs
